@@ -1,4 +1,43 @@
-# SwaggerUI_AuthorizationCodeFlow
+<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+<p align="center">
+  <a href="https://github.com/mcmdothub">
+    <img alt="mcmdothub" src="https://user-images.githubusercontent.com/55764189/110310027-576d4180-8002-11eb-99b0-8208547ee185.png" width="180" />
+  </a>
+</p>
+<h1 align="center">
+  Follow me on LinkedIn 
+</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/cristian-marin-379349117">
+    <img alt="mcmdothub" src="https://user-images.githubusercontent.com/55764189/110315697-e3369c00-8009-11eb-9621-2c4e8d1be600.png" width="60" />
+  </a>
+</p>
+
+Made with .Net / SwaggerUI 
+
+## 🚀 Quick start
+
+1.  **Clone this site.**
+
+    Use git bash to clone this project.
+
+    ```shell
+    # Git bash here
+    git clone https://github.com/mcmdothub/SwaggerUI_AuthorizationCodeFlow.git
+    ```
+
+1.  **Start developing.**
+
+    Navigate into your new site’s directory and start it up.
+
+    ```shell
+    cd SwaggerUI_AuthorizationCodeFlow/
+    code .
+    ```
+
+## 🧐 What's inside?
+
+A quick look. SwaggerUI Authorization Code Flow
 
 SwaggerUI - Index
 ![Swagger UI - 1](https://user-images.githubusercontent.com/55764189/106005412-1e10f000-60ac-11eb-9810-3d28e64108bc.png)
@@ -18,3 +57,5 @@ Redirect to IdentityServer4
 
 Execute => Server response "Code 200"
 ![Swagger UI - 7](https://user-images.githubusercontent.com/55764189/106005460-2a954880-60ac-11eb-81d5-6552760badcc.png)
+
+<!-- AUTO-GENERATED-CONTENT:END -->
